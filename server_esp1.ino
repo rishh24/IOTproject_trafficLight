@@ -2,8 +2,8 @@
 #include <ESP8266WebServer.h>
 
 // Wi-Fi Credentials
-const char* ssid = "narzo 30 Pro 5G";
-const char* password = "eb528b498867";
+const char* ssid = "my_network";
+const char* password = "secret";
 
 // Traffic Light Pins
 const int redPin = D1;
