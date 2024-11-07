@@ -2,8 +2,8 @@
 #include <ESP8266HTTPClient.h>
 
 // Wi-Fi Credentials
-const char* ssid = "narzo 30 Pro 5G";
-const char* password = "eb528b498867";
+const char* ssid = "my_network";
+const char* password = "secret";
 
 // Server IP and Static IP Configuration
 IPAddress serverIP(192, 168, 43, 99);  // ESP1 IP Address
